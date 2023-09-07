@@ -20,25 +20,27 @@
 *Abra um ticket específico para áreas como Suporte, Financeiro ou Dúvidas, para uma assistência direcionada.*
 
 
-# Comandos disponíveis
+# Comandos Personalizados
 
-ㆍ**/setatendimento <canal>**
-*Define o canal aonde será possivel realizar a abertura dos atendimentos!*
+Aqui estão os comandos disponíveis para personalizar o sistema de atendimento:
 
-ㆍ**/setcategoria <categoria>**
-*Define a categoria aonde será realizado a abertura dos atendimentos privados!*
+ㆍ **/setatendimento <canal>**
+*Define o canal no qual os atendimentos serão abertos.*
 
-ㆍ**/setcargo <cargo>**
-*Define o cargo que poderá realizar os atendimentos!*
+ㆍ **/setcategoria <categoria>**
+*Especifica a categoria para os atendimentos privados.*
 
-ㆍ**/sethorario <inicio> <fim>**
-*Define o horário do inicio e fim dos atendimentos!*
+ㆍ **/setcargo <cargo>**
+*Determina o cargo autorizado a realizar os atendimentos.*
 
-ㆍ**/setlogs <canal>**
-*Define o canal aonde será enviado as LOGS/REGISTROS do canal de atendimento!*
+ㆍ **/sethorario <inicio> <fim>**
+*Estabelece o horário de início e término dos atendimentos.*
 
-ㆍ**/setassuntos <assunto1> <assunto2> <assunto3>**
-*Define o nome dos assuntos de atendimento, exemplo: Suporte, Financeiro ou Dúvidas!*
+ㆍ **/setlogs <canal>**
+*Indica o canal para receber os registros e logs do sistema de atendimento.*
 
-ㆍ**/configurarmensagem <principal> || <atendimento>**
-*Permiti configurar as mensagens de atendimento!*
+ㆍ **/setassuntos <assunto1> <assunto2> <assunto3>**
+*Define os assuntos para os atendimentos, por exemplo: Suporte, Financeiro, Dúvidas.*
+
+ㆍ **/configurarmensagem <principal> || <atendimento>**
+*Personalize as mensagens utilizadas no sistema de atendimento.*
