@@ -44,3 +44,9 @@ Aqui estão os comandos disponíveis para personalizar o sistema de atendimento:
 
 ㆍ **/configurarmensagem**
 *Personalize as mensagens utilizadas no sistema de atendimento.*
+
+
+
+
+# Imagem de exemplo
+https://imgur.com/UvMiWTg
