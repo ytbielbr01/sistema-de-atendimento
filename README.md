@@ -36,7 +36,7 @@ Aqui estão os comandos disponíveis para personalizar o sistema de atendimento:
 ㆍ **/sethorario <inicio> <fim>**
 *Estabelece o horário de início e término dos atendimentos.*
 
-ㆍ **/setlogs <canal>**
+ㆍ **/setlogs** <canal>
 *Indica o canal para receber os registros e logs do sistema de atendimento.*
 
 ㆍ **/setassuntos <assunto1> <assunto2> <assunto3>**
