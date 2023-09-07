@@ -42,5 +42,5 @@ Aqui estão os comandos disponíveis para personalizar o sistema de atendimento:
 ㆍ **/setassuntos <assunto1> <assunto2> <assunto3>**
 *Define os assuntos para os atendimentos, por exemplo: Suporte, Financeiro, Dúvidas.*
 
-ㆍ **/configurarmensagem <principal> || <atendimento>**
+ㆍ **/configurarmensagem <principal> / <atendimento>**
 *Personalize as mensagens utilizadas no sistema de atendimento.*
