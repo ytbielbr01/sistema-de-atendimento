@@ -49,4 +49,4 @@ Aqui estão os comandos disponíveis para personalizar o sistema de atendimento:
 
 
 # Imagem de exemplo
-![Exemplo de Imagem](https://imgur.com/UvMiWTg)
+![Exemplo de Imagem](https://imgur.com/UvMiWTg.png)
