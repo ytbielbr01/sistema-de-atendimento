@@ -24,23 +24,23 @@
 
 Aqui estão os comandos disponíveis para personalizar o sistema de atendimento:
 
-ㆍ **/setatendimento <canal>**
+ㆍ **/setatendimento**
 *Define o canal no qual os atendimentos serão abertos.*
 
 ㆍ **/setcategoria <categoria>**
 *Especifica a categoria para os atendimentos privados.*
 
-ㆍ **/setcargo <cargo>**
+ㆍ **/setcargo**
 *Determina o cargo autorizado a realizar os atendimentos.*
 
-ㆍ **/sethorario <inicio> <fim>**
+ㆍ **/sethorario**
 *Estabelece o horário de início e término dos atendimentos.*
 
-ㆍ **/setlogs <canal>**
+ㆍ **/setlogs**
 *Indica o canal para receber os registros e logs do sistema de atendimento.*
 
-ㆍ **/setassuntos <assunto1> <assunto2> <assunto3>**
+ㆍ **/setassuntos**
 *Define os assuntos para os atendimentos, por exemplo: Suporte, Financeiro, Dúvidas.*
 
-ㆍ **/configurarmensagem <principal> / <atendimento>**
+ㆍ **/configurarmensagem**
 *Personalize as mensagens utilizadas no sistema de atendimento.*
